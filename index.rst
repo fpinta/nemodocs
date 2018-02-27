@@ -14,7 +14,12 @@ This section describe the main features of Ne.Mo Network Monitoring Tool.
 
 If you do not find the information you are looking for please write to support@nemosupport.com and we'll fill the gap as soon as possible.
 
+\ |IMG1|\ 
 
 
 
 .. bottom of content
+
+.. |IMG1| image:: static/index_1.png
+   :height: 152 px
+   :width: 601 px
